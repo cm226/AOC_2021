@@ -197,3 +197,4 @@ for line in input:
     total+=res
     print (res)
 print(total)
+print("day8")
